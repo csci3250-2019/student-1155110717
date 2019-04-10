@@ -18,4 +18,4 @@ CSCI3250&3251 |  Computers and Society ; Engineering Practicum
 - [ ] CSCI2100
 - [ ]  CSCI3250&3251
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+![alt text](https://github.com/csci3250-2019/student-1155110717/blob/master/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(142).png "Screenshot")
